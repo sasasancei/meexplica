@@ -1,0 +1,48 @@
+body {
+    background:url(img/fundo.jpg);
+}
+
+.jumbotron{
+    text-align: right;
+    font-style: italic;
+    color: white;
+    background-image: url(img/footer_lodyas.png);
+    height: 500px;
+    font-family: 'Economica' sans-serif;
+}
+
+.card{
+    text-align: center;
+}
+
+.card-img-top{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 300px;
+    width: 100px;
+}
+
+.logo{
+    border-radius: 300px;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+}
+
+.rodape {
+background:lightgrey;
+height:70px;
+}
+
+.rodape img {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:300px;
+    width:50px;
+    padding:5px;
+}
+
+.rodape p {
+    text-align:center;
+    vertical-align: middle;
+}
